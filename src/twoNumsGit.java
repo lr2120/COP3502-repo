@@ -10,7 +10,7 @@ public class twoNumsGit
         int firstNum = keyboard.nextInt();
         System.out.print("Enter second number: ");
         int secondNum = keyboard.nextInt();
-        System.out.print(firstNum + " - " + secondNum + " = ");
-        System.out.println(firstNum - secondNum);
+        System.out.print(firstNum + " + " + secondNum + " = ");
+        System.out.println(firstNum + secondNum);
     }
 }
